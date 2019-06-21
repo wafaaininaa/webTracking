@@ -85,10 +85,10 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Registrasi</a>
-                    <a href="https://laracasts.com">Data Pengguna</a>
-                    <a href="https://laravel-news.com">Presensi Pengguna</a>
-                    <a href="https://blog.laravel.com">Posisi Pengguna</a>
+                    <a href="registrasi">Registrasi</a>
+                    <a href="data-pengguna">Data Pengguna</a>
+                    <a href="presensi-pengguna">Presensi Pengguna</a>
+                    <a href="posisi-pengguna">Posisi Pengguna</a>
                 </div>
             </div>
         </div>
