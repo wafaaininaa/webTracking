@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>PRESENSI PENGGUNA</title>
+        <link rel="stylesheet" href="/asset/css/header.css">
         <link rel="stylesheet" type="text/css" href="/asset/css/bootstrap.css">
         <script type="text/javascript" src="/asset/js/jquery.js"></script>
         <script type="text/javascript" src="/asset/js/bootstrap.js"></script>
@@ -66,6 +67,31 @@
         </style>
     </head>
     <body>
+        <div class="header">
+    <table class="table table-borderless" padding="5px">
+    <tr><td>
+    <img id="home" src="LOGO_PU3.jpg" width="1" height="1"></td>
+    <div class="links"><td><br>
+        <div class="font-color">
+                    <a href="/">Home</a></td>
+                    <td>
+                       <br><a href="data-pengguna">Tambah atau Edit Tenaga Ahli</a>
+                   </td>
+                    <td>
+                        <br><a href="presensi-pengguna">Absensi</a>
+                    </td>
+                    <td>
+                        <br><a href="posisi-pengguna">GPS</a>
+                    </td>
+                    <td>
+                        <br><a href="presensi-pengguna">Rekap Absen</a>
+                    </td>
+                    <td>
+                        Halo Pak Siapa Hayo<br>
+                        Logout
+                    </td>
+                    </div></td>
+                </div></tr></table></div>
         <div class="container">
         <div class="card">
         <div class="card-body">

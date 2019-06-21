@@ -16,6 +16,11 @@ Route::get('/', function () {
 
 });
 
+Route::get('coba', function () {
+	return view('coba');
+
+});
+
 Route::get('registrasi', function () {
 	return view('register');
 });
@@ -30,6 +35,10 @@ Route::get('presensi-pengguna', function () {
 
 Route::get('posisi-pengguna', function () {
 	return view('posisiPengguna');
+});
+
+Route::get('test', function () {
+	return view('test');
 });
 
 Route::get('my-home', 'HomeController@myHome');
