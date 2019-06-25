@@ -16,8 +16,8 @@ Route::get('/', function () {
 
 });
 
-Route::get('coba', function () {
-	return view('coba');
+Route::get('index', function () {
+	return view('index');
 
 });
 
